@@ -1,0 +1,22 @@
+body {
+  padding-top: 0px;
+}
+.sub-header {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.navbar-fixed-top {
+  border: 0;
+}
+
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+.items{
+  margin-top: 70px;
+  margin-left: 10px;
+}
